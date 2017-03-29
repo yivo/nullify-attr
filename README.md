@@ -3,7 +3,7 @@
 [![Gem Version](https://badge.fury.io/rb/nullify-attr.svg)](https://badge.fury.io/rb/nullify-attr)
 
 ## About
-Allows to conditionally (support both `if` and `unless`.) nullify attributes in `before_validation` hook.
+Allows to conditionally (supports both `if` and `unless`) nullify attributes in `before_validation` hook.
 
 ## Usage
 ```ruby
